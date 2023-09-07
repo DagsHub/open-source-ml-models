@@ -22,7 +22,7 @@ To simplify this process, we've created a user-friendly Colab notebook that will
 1. Sign-up to [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
 2. Join [Hacktoberfest 2023 Discord channel](https://discord.gg/xAGgkNht).
 3. Claim the model by opening a new issue [here](https://github.com/DagsHub/open-source-ml-datasets) and naming it after the model. Please make sure that the model wasn't claimed and that it’s open source.
-4. Import a model from TODO or TODO using the Colab notebooks.
+4. Import a model from [Hugging Face](https://huggingface.co/) using the [Colab notebooks](https://colab.research.google.com/drive/1pUqCPvF_wEzH8wwO8mH01IJImkxuMSQN?usp=sharing).
 5. Add a [README.md](http://readme.md/) file (e.g., [Librispeech ASR corpus](https://dagshub.com/DagsHub/Librispeech-ASR-corpus/src/master/README.md)) **to the repository on DagsHub** with the following information:
     1. Description
     2. Citation
