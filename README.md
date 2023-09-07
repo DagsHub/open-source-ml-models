@@ -1,2 +1,36 @@
-# open-source-ml-models
-This repository holds open-source machine learning models for various domains ready to download and use
+# Open Source Machine Learning Models
+
+## This repository holds open-source machine learning models for various domains ready to download and be used!
+
+**Welcome to DagsHub’s non-code contribution project for Hacktoberfest 2023!**
+![banner](https://user-images.githubusercontent.com/66431403/193427111-af11f270-bce0-4ad8-b0f9-02526312a9c2.png)
+
+In this exciting Hacktoberfest challenge, DagsHub invites you to join us in enriching the open-source machine-learning model domain and enhancing its accessibility and capabilities for the global machine-learning community.
+
+## What is DagsHub?
+
+[DagsHub](https://dagshub.com/) is a centralized platform to host and manage machine learning projects including code, data, models, experiments, annotations, model registry, and more! DagsHub does the MLOps heavy lifting for its users. Every repository comes with configured S3 storage, an experiment tracking server, and an annotation workspace - all using popular open-source tools like MLflow, DVC, Git, and Label Studio.
+
+## What is this challenge?
+
+**Your mission is to import models from various sources**, such as Kaggle, Hugging Face, or any other relevant platforms, and integrate them into DagsHub. Hosting models on DagsHub enables practitioners to easily find and use the one that best fits their needs, view their architecture, and version control them for reproducibility using MLflow or DVC.
+
+## How do I contribute?
+
+To simplify this process, we've created a user-friendly Colab notebook that will do the import for you! Here's a quick overview of what you need to do:
+
+1. Sign-up to [Hacktoberfest](https://hacktoberfest.digitalocean.com/profile) & [DagsHub](https://dagshub.com/user/sign_up?redirect_to=).
+2. Join [Hacktoberfest 2023 Discord channel](https://discord.gg/xAGgkNht).
+3. Claim the model by opening a new issue [here](https://github.com/DagsHub/open-source-ml-datasets) and naming it after the model. Please make sure that the model wasn't claimed and that it’s open source.
+4. Import a model from TODO or TODO using the Colab notebooks.
+5. Add a [README.md](http://readme.md/) file (e.g., [Librispeech ASR corpus](https://dagshub.com/DagsHub/Librispeech-ASR-corpus/src/master/README.md)) **to the repository on DagsHub** with the following information:
+    1. Description
+    2. Citation
+    3. Prerequisite
+    4. License
+    5. Additional information
+    
+    **Note:** You can create a [markdown file](https://www.markdownguide.org/getting-started/) locally, upload it to DagsHub from the repository UI, and edit it from DagsHub - no need for coding whatsoever!
+6. Add relevant tags to the repository and files.
+7. Add the `model`, `hacktoberfest` labels to the DagsHub repository.
+8. Open a Pull Request on [here](https://github.com/DagsHub/open-source-ml-datasets) with the README file and a link to the DagsHub repo.
